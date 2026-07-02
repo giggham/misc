@@ -34,9 +34,3 @@ google() {
 	w3m "http://www.google.com.hk/search?q=$search"
 }
 
-#export P4CONFIG=$HOME/.p4config
-#export P4ROOT=$HOME/p4root_ryli_ubuntu1104
-
-#export BOOST_PATH=${QUADD_EXTERNALS}/boost_1_50_0
-
-
